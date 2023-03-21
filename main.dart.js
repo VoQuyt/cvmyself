@@ -64119,7 +64119,7 @@ $.xp=A.y(t.N,t._8)
 $.a7r=null
 $.NT=null
 $.ai6=function(){var s="application/json; charset=UTF-8",r=t.N
-return A.aD(["Accept",s,"Content-Type",s],r,r)}()
+return A.aD(["Accept",s,"Content-Type",s,"Access-Control-Allow-Origin","*","Access-Control-Allow-Headers","Origin, X-Requested-With, Content-Type, Accept"],r,r)}()
 $.zw=function(){var s=t.N
 return A.aD(["Accept","application/json; charset=UTF-8"],s,s)}()
 $.a8z=function(){var s="multipart/form-data",r=t.N
